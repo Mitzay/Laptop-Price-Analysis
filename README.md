@@ -5,7 +5,7 @@ Laptopia101 is an online laptop retailer with a wide range of products. Differen
 ## Objective
 To answer some of the questions which will help us understand the kind of information and visuals Laptopia101 can put on their website to improve customer experience.
 
-How many laptops are available across the different companies manufacturing laptops?
+. How many laptops are available across the different companies manufacturing laptops?
 How does the price vary across the different companies manufacturing laptops?
 How does the price vary across the different types of laptops?
 The amount of RAM available is a key factor in gaming performance. How does the amount of RAM vary by the company for Gaming laptops?
